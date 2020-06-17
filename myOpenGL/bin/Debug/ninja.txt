@@ -1,0 +1,25 @@
+#
+# Animations
+#
+# Anim		Start	End	Delay
+Walk		1	13	4
+Run			1	13	1
+Walk_Side	15	30	4
+Atack_1		31	58	4
+Atack_Front	59	68	4
+Block_Up	69	72	6
+Atack_Leg	73	83	4
+Pick_Up		84	93	4
+Jump_High	93	100	4
+Jump		101	111	4
+Finish		112	123	4
+Atack_Leg_2	124	130	4
+Atack_Round	131	145	4
+Salta		146	154	4
+Climb		155	161	4
+Fall_Back	162	170	4
+Fall_Forward	171	182	4
+Stay		183	195	4
+Up		195	200	4
+Look_Sides	200	245	4
+Look_Around	246	300	4
